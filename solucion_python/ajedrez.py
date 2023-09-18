@@ -9,5 +9,5 @@ def contar_movientos_pasos(movientos_restantes):
             return 0 #no se pueden hacer movimientos
         numero_movientos_validos=0 #inicializamos la variable movientos totales que acumulara el número de movientos válidos
 
-        for casilla in range(10):
+        
               
